@@ -1,0 +1,36 @@
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\bin\Debug\Photographer.exe.config
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\bin\Debug\Photographer.exe
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\bin\Debug\Photographer.pdb
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\bin\Debug\Guna.UI2.dll
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Reliable Online Studio V3.6.csprojAssemblyReference.cache
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.Properties.Resources.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Main_UI.ClientForm.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Main_UI.LogInForm.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.PhotographerForm.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Main_UI.SignUpForm.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Main_UI.StaffForm.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Client.AllTask.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Client.Deliverd_Order.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Client.OrderPlacement.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Client.ShowPhotographers.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.ForAll.PreviousComplains.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.ForAll.Report.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.AllTaskPhotographer.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.Another.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.DeletAccount.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.DeliverTask.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.Orders.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.PhotographerProfile.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.Progress.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Photographer.UpdatePhotographerProfile.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.SignUp_UI.LogInUI.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.SignUp_UI.SignIn1st.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Staff.AllReplies.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Staff.ManageComplain.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Staff.ShowClients.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.View.Panel_UI.Staff.ShowPhotographers.resources
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Reliable Online Studio V3.6.csproj.GenerateResource.cache
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Reliable Online Studio V3.6.csproj.CoreCompileInputs.cache
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Reliable Online Studio V3.6.csproj.CopyComplete
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.exe
+E:\4th\ROS\Final Meeting\Version 3.6\Reliable Online Studio V1.0\Photographer\obj\Debug\Photographer.pdb
